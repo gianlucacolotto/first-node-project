@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "gianlucacolotto",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/gianlucacolotto/first-node-project"
+  }
 }
