@@ -13,5 +13,11 @@
   "license": "ISC",
   "repository": {
     "url": "https://github.com/gianlucacolotto/first-node-project"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.5"
+  },
+  "dependencies": {
+    "faker": "^5.4.0"
   }
 }
