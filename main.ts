@@ -221,4 +221,24 @@ console.log('Odd numbers: ', oddNumbers);
 *
 * Node js = back end
 * browser = front-end
+*
+* Programmazione server-side (back-end) e client-side (front-end)
+*
+* Nasce figura sviluppatore fullstack: risorsa unica in grado di gestire
+* un progetto sia in ambito back-end che in ambito front-end:
+* - progetto visto per la sua interezza e non solo focalizzandosi su alcune
+* tecnologie;
+* - molto complesso (ma a mio avviso molto divertente);
+*
+* Javascript nasce come linguaggio di programmazione Client-side, 
+* per i browser web.
+*
+* Con Node.js nel 2010 è possibile eseguire codice javascript in modalità backend
+*
+* Javascript (e i suoi derivati) è un linguaggio di programmazione fullstack.
+*
+* Codice fullstack è un codice che può girare contemporaneamente sia in ambito
+* back-end che front-end.
+* Ma attenzione: non tutto il codice javascript back-end può girare sul front-end
+* e viceversa.
 */
