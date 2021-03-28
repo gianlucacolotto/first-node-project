@@ -15,7 +15,8 @@
     "url": "https://github.com/gianlucacolotto/first-node-project"
   },
   "devDependencies": {
-    "@types/jquery": "^3.5.5"
+    "@types/jquery": "^3.5.5",
+    "@types/node": "^14.14.36"
   },
   "dependencies": {
     "faker": "^5.4.0"

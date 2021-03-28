@@ -239,6 +239,19 @@ console.log('Odd numbers: ', oddNumbers);
 *
 * Codice fullstack è un codice che può girare contemporaneamente sia in ambito
 * back-end che front-end.
+* Idea del fullstack: Javascript con Node e con API del browser ci permette di girare
+* di creare un progetto unico e distribuire il nostro codice come vogliamo
 * Ma attenzione: non tutto il codice javascript back-end può girare sul front-end
 * e viceversa.
+*
+* 1) creiamo codice compilato con Javascript e poi facciamolo girare su un browser
+*
+* 1) Dentro Node possiamo creare un server http o un server in generale, perché il layer http
+* può essere acceduto solo da backend all'interno di un pc.
+* 2) Node ci permette di accedere al file system.
+
+I due punti sopra non si possono realizzare da browser.
+*
+* Installazione dei tipi Node di cui abbiamo bisogno npm install -D @type/node
+*
 */
